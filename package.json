@@ -1,0 +1,25 @@
+{
+  "name": "js-textavatar",
+  "version": "1.0.0",
+  "description": "Javascript library for generating Text Avatars similar to Google Email user icons.",
+  "main": "textAvatar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bismay4u/js-textavatar.git"
+  },
+  "keywords": [
+    "javascript",
+    "textavatar",
+    "avatar",
+    "gmail-avatar"
+  ],
+  "author": "Bismay [bismay4u@gmail.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bismay4u/js-textavatar/issues"
+  },
+  "homepage": "https://github.com/bismay4u/js-textavatar#readme"
+}
